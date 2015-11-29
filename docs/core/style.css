@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'elliptical';
-	src:url('fonts/elliptical.eot?2v4v40');
-	src:url('fonts/elliptical.eot?2v4v40#iefix') format('embedded-opentype'),
-		url('fonts/elliptical.ttf?2v4v40') format('truetype'),
-		url('fonts/elliptical.woff?2v4v40') format('woff'),
-		url('fonts/elliptical.svg?2v4v40#elliptical') format('svg');
+	src:url('fonts/elliptical.eot?ldfjy4');
+	src:url('fonts/elliptical.eot?ldfjy4#iefix') format('embedded-opentype'),
+		url('fonts/elliptical.ttf?ldfjy4') format('truetype'),
+		url('fonts/elliptical.woff?ldfjy4') format('woff'),
+		url('fonts/elliptical.svg?ldfjy4#elliptical') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -47,10 +47,10 @@
 .icon-core-chevron-up:before {
 	content: "\e075";
 }
-.icon-core-arrow-back:before {
+.icon-core-arrow-forward:before {
 	content: "\e904";
 }
-.icon-core-arrow-back2:before {
+.icon-core-arrow-back:before {
 	content: "\e905";
 }
 .icon-core-cross:before {
@@ -270,10 +270,10 @@
 	content: "\e158";
 }
 .icon-core-circle:before {
-	content: "\e913";
+	content: "\e05d";
 }
 .icon-core-circle-2:before {
-	content: "\e05d";
+	content: "\e913";
 }
 .icon-core-minus:before {
 	content: "\e914";
