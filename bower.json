@@ -1,7 +1,7 @@
 {
   "name": "sass-core-icons",
   "description": "Core icon font",
-  "version":"1.0.5",
+  "version":"1.0.6",
   "main": "dist/elliptical.css",
   "authors": [
     "S. Francis"
@@ -40,6 +40,7 @@
     "stylesheets",
     "_index.scss",
     "bk",
-    "sassdoc"
+    "sassdoc",
+    "svg"
   ]
 }
